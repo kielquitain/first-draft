@@ -1,0 +1,6721 @@
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+must be str, not NoneType
+must be str, not NoneType
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': database is locked
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': database is locked
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+min() arg is an empty sequence
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
+must be str, not NoneType
