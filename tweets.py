@@ -8,8 +8,8 @@ from unidecode import unidecode
 import time
 
 analyzer = SentimentIntensityAnalyzer()
-
-conn = sqlite3.connect('twitter.db')
+tagalog = "tagalog"
+conn = sqlite3.connect('trainingdata.db')
 c = conn.cursor()
 
 def create_table():
@@ -30,15 +30,20 @@ atoken="1670410170-F1Ve5jLNYWjSzncxCOGig1a97Ze3UaY6BcBhID1"
 asecret="qDqGBMyJMFJKq2tMZngnOEoLibs2ICLdjHc4Kk9eTGBA2"
 
 class listener(StreamListener):
-
     def on_data(self, data):
         try:
             data = json.loads(data)
-            tweet = unidecode(data['text'])
+            tweet = (data['text'])
+            tweet = []
             time_ms = data['timestamp_ms']
             vs = analyzer.polarity_scores(tweet)
             sentiment = vs['compound']
-            print(time_ms, tweet, sentiment)
+           
+
+            if sentiment == 0.0:
+                print(time_ms,tweet,sentiment,tagalog)
+            else:
+                print(time_ms, tweet, sentiment)
             c.execute("INSERT INTO sentiment (unix, tweet, sentiment) VALUES (?, ?, ?)",
                   (time_ms, tweet, sentiment))
             conn.commit()
@@ -56,7 +61,7 @@ while True:
         auth = OAuthHandler(ckey, csecret)
         auth.set_access_token(atoken, asecret)
         twitterStream = Stream(auth, listener())
-        twitterStream.filter(track=["Duterte", "Bong Go", "Hilbay", "Pilo Hilbay", "duterte", "a"])
+        twitterStream.filter(track=["#Halalan2019", "Bong Go", "Hilbay", "Pilo Hilbay", "duterte", "bong go", "Chel Diokno", "Bong Revilla", "Sarah Duterte", "sarah duterte", "Cynthia Villar", "cynthia villar", "Juan Ponce Enrile", "juan ponce enrile", "JV Estrada", "estrada", "halalan", "Grace Poe", "grace poe", "eleksyon", ""])
     except Exception as e:
         print(str(e))
         time.sleep(5)

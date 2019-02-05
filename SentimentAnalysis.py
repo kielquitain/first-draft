@@ -22,35 +22,54 @@ app_colors = {
 app = dash.Dash(__name__)
 app.layout = html.Div(
     [html.Div(style={'fontSize': 14, 'font face': 'Century Gothic'}),
-       html.H2('SENATORIAL CANDIDATES SENTIMENT ANALYSIS', style={'fontSize': 20, 'font-family': 'Century Gothic'}),
+       html.H2('SENATORIAL CANDIDATES SENTIMENT ANALYSIS', style={'fontSize': 30, 'font-family': 'Century Gothic', 'font-type': 'bold', 'color': app_colors['someothercolor']
+       			, 'text-align': 'center'}),
         # dcc.Input(id='sentiment_term', value='olympic', type='text'),
+   #      dcc.Dropdown(id = 'sentiment_term',
+   #  	options=[
+   #      {'label': 'Bong Go', 'value': 'Bong Go'},
+   #      {'label': 'Pilo Hilbay', 'value': 'Pilo Hilbay'},
+   #      {'label': 'Duterte', 'value': 'Duterte', 'value': 'duterte'},
+   #      {'label': 'a', 'value': 'a'},
+   #      ],	
+			# ),
+   #      dcc.Dropdown(id = 'sentiment_term2',
+   #  	options=[
+   #      {'label': 'Bong Go', 'value': 'Bong Go'},
+   #      {'label': 'Pilo Hilbay', 'value': 'Pilo Hilbay'},
+   #      {'label': 'Duterte', 'value': 'Duterte', 'value': 'duterte'},
+   #      {'label': 'apple', 'value': 'apple'},
+   #      ],	
+			# ),
+        html.Div([
+        html.Div([
         dcc.Dropdown(id = 'sentiment_term',
     	options=[
-        {'label': 'Bong Go', 'value': 'Bong Go'},
-        {'label': 'Pilo Hilbay', 'value': 'Pilo Hilbay'},
+        {'label': 'Bong Go', 'value': 'Bong Go', 'value': 'bong go'},
+        {'label': 'Pilo Hilbay', 'value': 'Pilo Hilbay','value': 'Hilbay', 'value': 'hilbay' },
         {'label': 'Duterte', 'value': 'Duterte', 'value': 'duterte'},
         {'label': 'a', 'value': 'a'},
-        ],	
-			),
+        {'label': 'the', 'value': 'the'},
+        ],style = {'font': app_colors['background']}),
+            html.H3('Senator 1', style={'fontSize': 30, 'font-family': 'Century Gothic', 'font-type': 'bold'
+       			, 'text-align': 'center','color': app_colors['someothercolor']}),
+            dcc.Graph(id = 'live-graph', animate=False)
+        ], className="six columns"),
+
+        html.Div([
         dcc.Dropdown(id = 'sentiment_term2',
     	options=[
         {'label': 'Bong Go', 'value': 'Bong Go'},
         {'label': 'Pilo Hilbay', 'value': 'Pilo Hilbay'},
         {'label': 'Duterte', 'value': 'Duterte', 'value': 'duterte'},
-        {'label': 'a', 'value': 'a'},
-        ],	
+        {'label': 'apple', 'value': 'apple'},
+        ],
 			),
-
-        html.Div([
-        html.Div([
-            html.H3('Column 1'),
-            dcc.Graph(id = 'live-graph', animate=False)
-        ], className="six columns"),
-
-        html.Div([
-            html.H3('Column 2'),
+            html.H3('Senator 2', style={'fontSize': 30, 'font-family': 'Century Gothic', 'font-type': 'bold'
+       			, 'text-align': 'center','color': app_colors['someothercolor']}),
             dcc.Graph(id = 'live-graph2', animate=False)
         ], className="six columns"),
+
     ], className="row"),
 
         	dcc.Interval(
@@ -59,7 +78,7 @@ app.layout = html.Div(
         	),
 
 
-    ],
+    ],style={'backgroundColor': app_colors['background'], 'margin-top':'-10px', 'height':'1000px',},
 
 )
 app.css.append_css({
@@ -87,12 +106,18 @@ def update_graph_scatter(sentiment_term):
         data = plotly.graph_objs.Scatter(
                 x=X,
                 y=Y,
-                name='Scatter',
-                mode= 'lines+markers',
+                name='Sentiment',
+                mode= 'lines',
+                yaxis='y2',
+                line = dict(color = (app_colors['sentiment-plot']),
+                            width = 4,)
                 )
 
         return {'data': [data],'layout' : go.Layout(xaxis=dict(range=[min(X),max(X)]),
                                                     yaxis=dict(range=[min(Y),max(Y)]),
+                                                     font={'color':app_colors['text']},
+                                                     plot_bgcolor = app_colors['background'],
+                                                     paper_bgcolor = app_colors['background'],
                                                     title='Term: {}'.format(sentiment_term))}
 
     except Exception as e:
@@ -120,17 +145,24 @@ def update_graph_scatter(sentiment_term2):
         data = plotly.graph_objs.Scatter(
                 x=X,
                 y=Y,
-                name='Scatter',
-                mode= 'lines+markers'
+                name='Sentiment',
+                mode= 'lines',
+                yaxis='y2',
+                line = dict(color = (app_colors['sentiment-plot']),
+                            width = 4,)
                 )
 
         return {'data': [data],'layout' : go.Layout(xaxis=dict(range=[min(X),max(X)]),
                                                     yaxis=dict(range=[min(Y),max(Y)]),
+                                                    font={'color':app_colors['text']},
+                                                    plot_bgcolor = app_colors['background'],
+                                                    paper_bgcolor = app_colors['background'],
                                                     title='Term: {}'.format(sentiment_term2))}
 
     except Exception as e:
         with open('errors.txt','a') as f:
             f.write(str(e))
             f.write('\n')
+
 if __name__ == '__main__':
     app.run_server(debug=True)
